@@ -1,13 +1,13 @@
-def qoshish(a, b):
+def qoshish(a, b):   # Bu funksiya qoshishni amalga oshiradi
     return a + b
 
-def ayirish(a, b):
+def ayirish(a, b):   # Bu funksiya ayirishni amalga oshiradi
     return a - b
 
-def kopaytirish(a, b):
+def kopaytirish(a, b):   # Bu funksiya kopaytirishni amalga oshiradi
     return a * b
 
-def bolish(a, b):
+def bolish(a, b):    # Bu funksiya bolishni amalga oshiradi
     return a / b
 
 print("Kalkulyator")
